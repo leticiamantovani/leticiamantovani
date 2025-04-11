@@ -69,8 +69,6 @@ Passionate and results-driven Backend Developer with 4+ years of experience desi
 
 <br clear="both">
 
-<img src="./.github/snake.svg" alt="Snake animation" />
-
 ###
 
 **Feel free to reach out via email or LinkedIn. Looking forward to learning and collaborating together! 😄**
