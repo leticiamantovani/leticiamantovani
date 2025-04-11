@@ -59,7 +59,7 @@ Passionate and results-driven Backend Developer with 4+ years of experience desi
       <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamantovani&layout=compact&theme=react'>
     </td>
     <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=leticiamantovani&show_icons=true&theme=react'>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=leticiamantovani&show_icons=true&theme=dracula'>
     </td>
   </row>
 </table> 
