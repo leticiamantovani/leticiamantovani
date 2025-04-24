@@ -53,16 +53,7 @@ Passionate and results-driven Backend Developer with 4+ years of experience desi
 <a href="https://firebase.google.com/" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 <a href="https://redis.io/" title="Redis"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/redis.svg" alt="Redis" width="21px" height="21px"></a>
 
-<table align="left">
-  <row>
-    <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamantovani&layout=compact&theme=react'>
-    </td>
-    <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=leticiamantovani&show_icons=true&theme=dracula'>
-    </td>
-  </row>
-</table> 
+<img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamantovani&layout=compact&theme=react'>
 
 
 ###
