@@ -1,6 +1,8 @@
 ## Hi there, I'm Leticia Mantovani 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-mantovani-a61356161/)](https://www.linkedin.com/in/leticia-mantovani-a61356161/)  
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=About.me&logoColor=white)](https://www.leticiamantovani.dev/)
+
 
 🚀 Backend Developer | Node.js | AWS | DevOps | TypeScript  
 
