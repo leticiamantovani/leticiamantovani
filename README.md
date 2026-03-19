@@ -4,9 +4,9 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=About.me&logoColor=white)](https://www.leticiamantovani.dev/)
 
 
-🚀 Backend Developer | Node.js | AWS | DevOps | TypeScript  
+🚀 Software Engineer | Node.js | AI | Python | TypeScript  
 
-Passionate and results-driven Backend Developer with 4+ years of experience designing and implementing scalable, high-performance solutions. Skilled in Node.js, TypeScript, AWS, and DevOps, I have a proven track record of developing robust APIs, optimizing cloud infrastructure, and improving CI/CD pipelines.  
+Passionate and results-driven Backend Developer with 6+ years of experience designing and implementing scalable, high-performance solutions. Skilled in Node.js, TypeScript, AWS, and DevOps, I have a proven track record of developing robust APIs, optimizing cloud infrastructure, and improving CI/CD pipelines.  
 
 💡 **Key Strengths**:  
 ✅ Expertise in **Node.js**, **TypeScript**, and **Python** for backend development  
