@@ -6,7 +6,7 @@
 
 🚀 Software Engineer | Node.js | AI | Python | TypeScript  
 
-Passionate and results-driven Backend Developer with 6+ years of experience designing and implementing scalable, high-performance solutions. Skilled in Node.js, TypeScript, AWS, and DevOps, I have a proven track record of developing robust APIs, optimizing cloud infrastructure, and improving CI/CD pipelines.  
+Passionate and results-driven Software Engineer with 6+ years of experience designing and implementing scalable, high-performance solutions. Skilled in Node.js, TypeScript, AI, and Python, I have a proven track record of developing robust APIs, optimizing cloud infrastructure, and improving CI/CD pipelines.  
 
 💡 **Key Strengths**:  
 ✅ Expertise in **Node.js**, **TypeScript**, and **Python** for backend development  
