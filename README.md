@@ -1,9 +1,9 @@
-## Hi there, I'm Leticia Mantovani 👋
+## Hi there, I'm Leticia Mantovani.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-mantovani-a61356161/)](https://www.linkedin.com/in/leticia-mantovani-a61356161/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=About.me&logoColor=white)](https://www.leticiamantovani.dev/)
 
-🤖 Backend Developer & AI Engineer | AWS | Python | TypeScript
+Backend Developer & AI Engineer | AWS | Python | TypeScript
 
 Backend Engineer with 6+ years of experience building scalable systems and AI-powered solutions. I specialize in **LLM pipelines, RAG architectures, and AI agents** using LangChain, LangGraph, and vector search, combined with solid backend and cloud engineering on AWS.
 
