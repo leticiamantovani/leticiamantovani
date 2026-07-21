@@ -12,18 +12,26 @@ Backend Engineer with 6+ years of experience building scalable systems and AI-po
 💡 **Key Strengths**
 
 🤖 **AI & LLM**
-✅ Building LLM pipelines & multistep AI agents with LangChain, LangGraph, and Vercel AI SDK
-✅ RAG architectures with pgvector, Pinecone, and Chroma for document-grounded AI
-✅ Prompt engineering and MCP tools to improve AI output accuracy
-✅ Publishing embedding datasets on HuggingFace and evaluating models with LangSmith
+
+- Building LLM pipelines & multistep AI agents with LangChain, LangGraph, and Vercel AI SDK
+
+- RAG architectures with pgvector, Pinecone, and Chroma for document-grounded AI
+
+- Prompt engineering and MCP tools to improve AI output accuracy
+
+- Publishing embedding datasets on HuggingFace and evaluating models with LangSmith
 
 ⚙️ **Backend**
-✅ Node.js, TypeScript, and Python (FastAPI) for scalable backend services
-✅ NestJS, Express, microservices architecture, REST and GraphQL APIs
+
+- Node.js, TypeScript, and Python (FastAPI) for scalable backend services
+
+- NestJS, Express, microservices architecture, REST and GraphQL APIs
 
 ☁️ **Cloud & DevOps**
-✅ AWS (Lambda, ECS/Fargate, EventBridge, S3, SQS, API Gateway, IAM)
-✅ CI/CD pipelines with GitHub Actions; monitoring with Prometheus, Grafana, and Sentry
+
+- AWS (ECS/Fargate, IAM, S3), GCP, Azure
+
+- CI/CD pipelines with GitHub Actions; monitoring with Prometheus, Grafana, and Sentry
 
 ---
 
