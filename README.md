@@ -24,6 +24,10 @@ AI Engineer with 6+ years of production experience across cloud infrastructure, 
 
 - **[Nutri Scope](https://github.com/leticiamantovani/nutriscope)** · [Live demo](https://nutriscope-ten.vercel.app/): AI ingredient analyzer. A LangGraph workflow uses Gemini structured output to classify each ingredient and streams the explanation in real time.
 - **[AskMyDocs](https://github.com/leticiamantovani/askMyDocs)** · [Live demo](https://ask-my-docs-cyan.vercel.app/): Full-stack RAG chatbot. Upload a PDF and get streaming, document-grounded answers through LangGraph and pgvector similarity search.
+- **[Financial App](https://github.com/leticiamantovani/financial-app)** · [Live demo](https://financial-app-delta.vercel.app/login): Financial management app to track transactions and balance, with AI-powered tips for subscribers and Stripe-based billing. Built with Next.js, PostgreSQL, Prisma, and Clerk.
+- **[Custom GitHub Actions](https://github.com/leticiamantovani/custom-github-actions)** · [GitHub Marketplace](https://github.com/marketplace/actions/pull-request-notifier): Reusable action that sends pull request notifications to Slack, Discord, and Microsoft Teams, running only the steps whose webhook is configured.
+- **[DBDev](https://github.com/leticiamantovani/dbdev)** · [PyPI](https://pypi.org/project/dbdev/): Python CLI to create, list, and manage SQL database containers with Docker, built with Typer.
+
 
 ---
 
